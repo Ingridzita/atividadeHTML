@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+    background-color: rgb(235, 221, 171);  
+}
+ h1{
+    background-color: rgb(212, 212, 103);
+    color: black;
+    font-family: "Oswald", sans-serif;
+ }
+
+table,th,td,hr{
+    border: 3px solid black;
+    border-collapse:collapse; text-align: center;
+    letter-spacing: 1px;
+    font-family:"Open Sans",sans-serif ;
+}
+caption{
+    font-size: 13pt;
+}
+p{
+    font-size: 14pt;
+}
+caption{
+    background-color: rgb(212, 212, 103);
+    color: black;
+    border: 2px solid rgba(179, 223, 46, 0.895);
+}
